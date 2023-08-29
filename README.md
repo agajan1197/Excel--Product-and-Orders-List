@@ -1,5 +1,5 @@
 # Excel Product and Orders List
-# In this project I have worked on Products and Orders list, I have formatted,sorted,summed and worked with Power Pivo.
+# In this project I have worked on Products and Orders list, I have formatted,sorted,summed and worked with Power Pivot.
 ## 1 I have formatted the list as a table
 ![](https://github.com/agajan1197/Excel--Product-and-Orders-List/blob/5cacdba40a478cf1649790175cea5704b3149f25/Screenshot%202566-02-20%20at%2018.55.49.png)
 ## Next thing I did was sorting the table
